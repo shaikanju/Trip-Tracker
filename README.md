@@ -80,7 +80,20 @@ http://christopherhield-001-site4.htempurl.com
 - `POST_NOTIFICATIONS`
 
 ---
-
+## screenshots
+![image](https://github.com/user-attachments/assets/43989194-2d91-4cc8-9bf5-4c49d2e0bddd)
+![image](https://github.com/user-attachments/assets/b38233a8-f278-4246-a83e-50fc8c101dfa)
+![image](https://github.com/user-attachments/assets/daf9ed0a-889a-439e-a393-3c09bc70b233)
+![image](https://github.com/user-attachments/assets/115a8a4f-239d-4633-9694-df0ac03f6b28)
+![image](https://github.com/user-attachments/assets/bf58f039-0730-4fc9-af3b-bd02a182d7be)
+![image](https://github.com/user-attachments/assets/7e9a274b-29a9-4bad-9dbd-c750b68dd57d)
+![image](https://github.com/user-attachments/assets/5e26eb6c-721c-433c-80a3-09d1c9d7c238)
+![image](https://github.com/user-attachments/assets/602f95b0-81a4-402a-9bd1-988e8d774b60)
+![image](https://github.com/user-attachments/assets/e458b5e5-cf1c-4eed-a6b8-bc77d3c7dafb)
+![image](https://github.com/user-attachments/assets/7bfbcab9-ef7c-4f0b-8a02-eb32342403bb)
+![image](https://github.com/user-attachments/assets/81d8dcd9-8baa-4e37-a15e-45b8f30dca2b)
+![image](https://github.com/user-attachments/assets/21e741a2-d711-4eaf-9370-6a5c32db1f8c)
+![image](https://github.com/user-attachments/assets/f548c903-be34-425b-bf67-c364c8810429)
 ## 💡 How it Works (Simplified Flow)
 
 ### Trip Leader
